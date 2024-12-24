@@ -1,4 +1,4 @@
-# simple-calculator
+# CODTECH-Task1
 
 #Features:
 Input Validation: The program checks if the entered values are numbers.
